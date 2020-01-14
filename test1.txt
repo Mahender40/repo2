@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 6A91-B3AD
+
+ Directory of C:\Users\hyd52220\Desktop\PyProject
+
+14-01-2020  12:26    <DIR>          .
+14-01-2020  12:26    <DIR>          ..
+14-01-2020  12:26                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  143,046,709,248 bytes free
